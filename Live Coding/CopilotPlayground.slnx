@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CopilotPlayground/CopilotPlayground.csproj" />
+  <Project Path="Northwind.DataAccess/Northwind.DataAccess.csproj" />
 </Solution>
